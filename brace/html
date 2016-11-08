@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Basic HTML Elements</title>
+</head>
+<body>
+<h1> header 1<h1>
+<h3>header 3 </h3>
+<div>
+<p> Lorem Ispsum Text<p/>
+<span>Span 1 </span>
+<span>Span 2 </span>
+<br />
+<a heref="#header1">Back to top </a>
+<br/>
+<img scr+"http://placehold.it/200x200
+</body>
